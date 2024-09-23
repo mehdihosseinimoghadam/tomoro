@@ -156,7 +156,7 @@ tomoro/
 
 ## Troubleshooting
 
-1. **Database issues**: If you encounter database-related errors, ensure that the `embeddings.db` file exists in the project root. If not, run the database initialization command mentioned in the setup instructions.
+1. **Database issues**: If you encounter database-related errors, ensure that the `embeddings.db` file exists in the project root. 
 
 2. **OpenAI API errors**: Verify that your OpenAI API key in the `.env` file is correct and has the necessary permissions.
 
