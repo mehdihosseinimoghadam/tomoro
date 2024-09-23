@@ -104,7 +104,7 @@ All file except knowledge_graph.ipynb
 
 
 ### Method 2 (Knowledge Graph)
-Code is avalible in knowledge_graph.ipynb (this code is only for demonstrations)
+Code is avalible in knowledge_graph.ipynb (this code is only for demonstrations, no refactoring or evaluation)
 
  <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/knowledge%20graph.png" height="600" width="940" >
 
