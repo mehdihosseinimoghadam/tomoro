@@ -47,10 +47,10 @@ This project implements a Retrieval-Augmented Generation (RAG) system with evalu
 
    Replace `your_openai_api_key_here` with your actual OpenAI API key.
 
-5. **Initialize the database**:
-   Run the following command to create the initial database structure:
+5. **Export Python Path**:
+   Run the following command to export python pathe:
    ```
-   poetry run python -c "from src.core.database import create_database; create_database()"
+   export PYTHONPATH=$PYTHONPATH:$(pwd)/src
    ```
 
 6. **Download Database**:
