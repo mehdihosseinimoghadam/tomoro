@@ -45,7 +45,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system with evalu
 
    ```
 
-   Replace `your_openai_api_key_here` with your actual OpenAI API key.
+   Replace `your_openai_api_key_here` with your actual OpenAI API key and `train.json` file is in `src/data`.
 
 5. **Export Python Path**:
    Run the following command to export python pathe:
@@ -56,6 +56,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system with evalu
 6. **Download Database**:
    You can download the embedding.db from this google drive link https://drive.google.com/file/d/1L0gwXq0OnWibkGpD7tWhptq3HnAB_nZE/view?usp=sharing
 
+7. **Any issue with loading .env configs**:
+   If you had any issue of loading .env variables just close and reopen your IDE
 
 ## Running the Application
 
