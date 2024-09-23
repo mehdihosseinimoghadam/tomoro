@@ -102,6 +102,11 @@ This will execute all the tests in the project however, there are no tests yet ;
  <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/Algo1.png" height="600" width="940" >
 
 
+### Method 2 (Knowledge Graph)
+
+
+ <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/knowledge%20graph.png" height="600" width="940" >
+
 ## Project Structure
 
 # Tomoro
