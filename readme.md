@@ -38,7 +38,11 @@ This project implements a Retrieval-Augmented Generation (RAG) system with evalu
 
    ```
    OPENAI_API_KEY=your_openai_api_key_here
-   DB_NAME=embeddings.db
+   DB_NAME="embeddings.db"
+   EMBEDDING_MODEL="text-embedding-ada-002"
+   CHAT_MODEL="gpt-4o-mini"
+   DATA_PATH="path/to/your/train.json"
+
    ```
 
    Replace `your_openai_api_key_here` with your actual OpenAI API key.
