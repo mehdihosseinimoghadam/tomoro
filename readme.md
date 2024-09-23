@@ -98,12 +98,13 @@ This will execute all the tests in the project however, there are no tests yet ;
 
 ## Algorithm Structure
 ### Method 1 (Hybrid Embedding Method)
+All file except knowledge_graph.ipynb
 
  <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/Algo1.png" height="600" width="940" >
 
 
 ### Method 2 (Knowledge Graph)
-
+Code is avalible in knowledge_graph.ipynb (this code is only for demonstrations)
 
  <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/knowledge%20graph.png" height="600" width="940" >
 
