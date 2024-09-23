@@ -49,6 +49,10 @@ This project implements a Retrieval-Augmented Generation (RAG) system with evalu
    poetry run python -c "from src.core.database import create_database; create_database()"
    ```
 
+5.1 *Download Database*
+You can download the embedding.db from this google drive link https://drive.google.com/file/d/1L0gwXq0OnWibkGpD7tWhptq3HnAB_nZE/view?usp=sharing
+
+
 ## Running the Application
 
 1. **Start the FastAPI server**:
