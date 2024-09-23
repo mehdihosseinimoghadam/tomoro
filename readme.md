@@ -93,7 +93,14 @@ To run the test suite:
 poetry run pytest
 ```
 
-This will execute all the tests in the project.
+This will execute all the tests in the project however, there are no tests yet ;)
+
+
+## Algorithm Structure
+### Method 1 (Hybrid Embedding Method)
+
+ <img src="https://github.com/mehdihosseinimoghadam/tomoro/blob/main/Algo1.png" height="600" width="940" >
+
 
 ## Project Structure
 
